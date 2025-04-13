@@ -54,6 +54,6 @@ Listing shipping methods and their costs.
 
 # Group Collaboration
 Group Members: 
-Adeleke Elijah Sunday
-Kibet Mary Jeptepkeny
+Adeleke Elijah Sunday,
+Kibet Mary Jeptepkeny,
 Sinothando Johnson 
